@@ -10,7 +10,7 @@ Deprecated==1.2.13
 distlib==0.3.5
 Django==4.0.6
 django-environ==0.9.0
-django-extensions==3.2.0
+django-extensionxs==3.2.0
 django-filter==22.1
 django-oauth-toolkit==2.1.0
 django-werkzeug==1.0.0
@@ -45,5 +45,6 @@ toml==0.10.2
 tomli==2.0.1
 urllib3==1.26.10
 virtualenv==20.15.1
+watchdog==2.1.9
 Werkzeug==2.1.2
 wrapt==1.14.1
