@@ -13,6 +13,7 @@ django-environ==0.9.0
 django-extensions==3.2.0
 django-filter==22.1
 django-oauth-toolkit==2.1.0
+django-werkzeug==1.0.0
 djangorestframework==3.13.1
 filelock==3.7.1
 graphene==2.1.9
@@ -44,4 +45,5 @@ toml==0.10.2
 tomli==2.0.1
 urllib3==1.26.10
 virtualenv==20.15.1
+Werkzeug==2.1.2
 wrapt==1.14.1
